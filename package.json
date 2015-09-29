@@ -16,6 +16,7 @@
     "node": ">=0.8"
   },
   "dependencies": {
+    "@hoist/logger": "^1.0.5",
     "underscore": "~1.4.4"
   },
   "devDependencies": {
