@@ -1,6 +1,6 @@
 {
   "name": "@hoist/child-pool",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "child_process pool implementation",
   "keywords": [
     "child_process",
